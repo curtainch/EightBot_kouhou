@@ -1,0 +1,2 @@
+# EightBot Docs dehanaiyo
+EightBotのドキュメントではありません
